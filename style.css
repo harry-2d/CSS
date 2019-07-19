@@ -1,0 +1,111 @@
+    
+<!DOCTYPE html>
+<html>
+<head>
+	<!--Embleded Style-->
+	
+	<style>
+	/*Universal selecctor*/
+	*{
+		margin:0;
+		padding:0;
+	}
+	/*Type selector*/
+	body{
+		background-color: #9fa73d;
+	}
+	/*class Selector selector*/
+	.greenbg{
+		background-color: #15816a;border-bottom:10px solid #0000ff;
+		
+	}
+	.redbg{
+		background-color: #0bcc3b; border:1px solid #ffffff;
+		border-radius: 20px 20px 20px 20px;
+	}
+	/*ID selector*/
+	#myheading{
+		font-variant: small-caps;
+	}
+
+
+</style>
+	<title>form</title>
+	<meta charset="utf-8"/>
+    <meta name="authour" content="dota2"/>
+    <link href="CSS/style.css" rel="stylesheet" type="text/css"/>
+
+</head>
+<body>
+	<h1>Welcome</h1>
+	<!--inline style-->
+	<h1 style="background:#ff0000;color:#ffffff;font-size:30px;font-weight:900;
+	font-variant:small-caps;border-bottom:2px dotted #0000ff";>Welcome Again</h1>
+	<p style="background:#200d0d;color:#ffffff;font-size:30px;font-weight:900;
+	;border-bottom:2px dotted #15816a">Computer says NO to HTML5 document outline
+June 9th, 2016 by Steve Faulkner.
+What a brilliant idea! For the longest time HTML5 specified, and advised developers, that it no longer mattered what the number (1 to 6) was in a heading element (when used in conjunction with sectioning elements). What mattered was the nesting level of the H1-h6 in sectioning elements, just like the X<H>TML promised land, but […]
+
+Read full post
+
+RECENT COMMENTS
+Steven Vachon on The details and summary elements
+Mark Excell on The Footer Element Update
+Patanjali on Computer says NO to HTML5 document outline
+Patanjali on The figure & figcaption elements
+Patanjali on Quoting and citing with  and the cite attribute
+HTML5 Element Index
+
+	</p>
+	<p class="redbg">
+			June 9th, 2016 by Steve Faulkner.
+			What a brilliant idea! For the longest time HTML5 specified, and advised developers, that it no longer mattered what the number (1 to 6) was in a heading element (when used in conjunction with sectioning elements). What mattered was the nesting level of the H1-h6 in sectioning elements, just like the X<H>TML promised land, but […]
+			
+			Read full post
+			
+			RECENT COMMENTS
+			Steven Vachon on The details and summary elements
+			Mark Excell on The Footer Element Update
+			Patanjali on Computer says NO to HTML5 document outline
+			Patanjali on The figure & figcaption elements
+			Patanjali on Quoting and citing with  and the cite attribute
+			HTML5 Element Index
+	</p>
+	<h1 style="background:#ff0000;color:#ffffff;font-size:30px;font-weight:900;
+	font-variant:small-caps;border-bottom:2px dotted #0000ff";>Welcome Again</h1>
+	<p class="greenbg">June 9th, 2016 by Steve Faulkner.
+			What a brilliant idea! For the longest time HTML5 specified, and advised developers, that it no longer mattered what the number (1 to 6) was in a heading element (when used in conjunction with sectioning elements). What mattered was the nesting level of the H1-h6 in sectioning elements, just like the X<H>TML promised land, but […]
+			
+			Read full post
+			
+			RECENT COMMENTS
+			Steven Vachon on The details and summary elements
+			Mark Excell on The Footer Element Update
+			Patanjali on Computer says NO to HTML5 document outline
+			Patanjali on The figure & figcaption elements
+			Patanjali on Quoting and citing with  and the cite attribute
+			HTML5 Element Index
+
+	</p>
+	<h2 id="myheading">Welcome @</h2>
+	<p class="redbg">
+			June 9th, 2016 by Steve Faulkner.
+			What a brilliant idea! For the longest time HTML5 specified, and advised developers, that it no longer mattered what the number (1 to 6) was in a heading element (when used in conjunction with sectioning elements). What mattered was the nesting level of the H1-h6 in sectioning elements, just like the X<H>TML promised land, but […]
+			
+			Read full post
+			
+			RECENT COMMENTS
+			Steven Vachon on The details and summary elements
+			Mark Excell on The Footer Element Update
+			Patanjali on Computer says NO to HTML5 document outline
+			Patanjali on The figure & figcaption elements
+			Patanjali on Quoting and citing with  and the cite attribute
+			HTML5 Element Index
+	</p>
+
+
+	
+
+
+</body>
+</html>
